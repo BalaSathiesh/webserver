@@ -59,6 +59,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![WhatsApp Image 2023-04-03 at 09 16 30](https://user-images.githubusercontent.com/128462891/229406950-a406e73d-716a-4c49-8474-f0e902fa1040.jpg)
 
 ## RESULT:
 The program is executed succesfully
